@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/misgastos/static/css/main.caf1db2f.chunk.css",
+    "main.js": "/misgastos/static/js/main.26f8d0f5.chunk.js",
+    "main.js.map": "/misgastos/static/js/main.26f8d0f5.chunk.js.map",
+    "runtime-main.js": "/misgastos/static/js/runtime-main.c2c68bfa.js",
+    "runtime-main.js.map": "/misgastos/static/js/runtime-main.c2c68bfa.js.map",
+    "static/js/2.87902a96.chunk.js": "/misgastos/static/js/2.87902a96.chunk.js",
+    "static/js/2.87902a96.chunk.js.map": "/misgastos/static/js/2.87902a96.chunk.js.map",
+    "index.html": "/misgastos/index.html",
+    "precache-manifest.f3b6192c28e8916a6db9b5d6011e40b9.js": "/misgastos/precache-manifest.f3b6192c28e8916a6db9b5d6011e40b9.js",
+    "service-worker.js": "/misgastos/service-worker.js",
+    "static/css/main.caf1db2f.chunk.css.map": "/misgastos/static/css/main.caf1db2f.chunk.css.map",
+    "static/js/2.87902a96.chunk.js.LICENSE.txt": "/misgastos/static/js/2.87902a96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2c68bfa.js",
+    "static/js/2.87902a96.chunk.js",
+    "static/css/main.caf1db2f.chunk.css",
+    "static/js/main.26f8d0f5.chunk.js"
+  ]
+}
